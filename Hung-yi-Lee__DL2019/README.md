@@ -1,1 +1,1 @@
-# Hung-yi-Lee dDeep Learning 2019
+# Hung-yi-Lee Deep Learning 2019
